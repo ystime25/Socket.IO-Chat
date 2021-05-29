@@ -1,4 +1,3 @@
-// sockets.js는 모든 소켓들을 관리하는 파일이다.
 import { handleNewUser, handleDisconnected } from "./notification";
 import { handleNewMsg } from "./chat";
 
