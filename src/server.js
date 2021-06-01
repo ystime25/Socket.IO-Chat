@@ -6,7 +6,7 @@ import socketController from "./socketController";
 import events from "./event";
 
 const app = express();
-const PORT = 4000;
+const PORT = 5000;
 
 app.set("views", join(__dirname, "views"));
 app.set("view engine", "pug");
